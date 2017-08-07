@@ -552,7 +552,7 @@ The [bootstrap.sh script](#bootstrapsh-script) and [osx.sh script](#osxsh-script
   <br/>
 </p>
 
-I prefer iTerm2 over the stock Terminal, as it has some some additional [great features](https://www.iterm2.com/features.html). Download and install iTerm2 (the newest version, even if it says "beta release").
+I prefer iTerm2 over the stock Terminal, as it has some additional [great features](https://www.iterm2.com/features.html). Download and install iTerm2 (the newest version, even if it says "beta release").
 
 In Finder, drag and drop the iTerm Application file into the Applications folder.
 
@@ -1888,6 +1888,8 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
 This repository contains a variety of content; some developed by Donne Martin, and some from third-parties.  The third-party content is distributed under the license provided by those parties.
 
 The content developed by Donne Martin is distributed under the following license:
+
+*I am providing code and resources in this repository to you under an open source license.  Because this is my personal repository, the license you receive to my code and resources is from me and not my employer (Facebook).*
 
     Copyright 2015 Donne Martin
 
